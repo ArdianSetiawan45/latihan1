@@ -2,3 +2,5 @@
 Sedang Latihan github
 -repo 
 -commi
+-branch
+-fork
